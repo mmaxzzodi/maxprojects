@@ -1,24 +1,15 @@
-# built application files
-release/
-
-# generated files
-build/
-captures/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Android Studio files
-.idea/*
-!.idea/codeStyleSettings.xml
-!.idea/codeStyles/codeStyleConfig.xml
-!.idea/codeStyles/Project.xml
-!.idea/copyright
 *.iml
-.gradle/
-
-# Fastlane
-Gemfile.lock
-/fastlane/report.xml
-/fastlane/README.md
-/fastlane/metadata/android/screenshots.html
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
